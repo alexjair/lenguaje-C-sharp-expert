@@ -1,0 +1,15 @@
+D:\Udemy\lenguaje-C-sharp-cero-expert\ConsoleApp\bin\Debug\net6.0\ConsoleApp.exe
+D:\Udemy\lenguaje-C-sharp-cero-expert\ConsoleApp\bin\Debug\net6.0\ConsoleApp.deps.json
+D:\Udemy\lenguaje-C-sharp-cero-expert\ConsoleApp\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json
+D:\Udemy\lenguaje-C-sharp-cero-expert\ConsoleApp\bin\Debug\net6.0\ConsoleApp.dll
+D:\Udemy\lenguaje-C-sharp-cero-expert\ConsoleApp\bin\Debug\net6.0\ConsoleApp.pdb
+D:\Udemy\lenguaje-C-sharp-cero-expert\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.AssemblyReference.cache
+D:\Udemy\lenguaje-C-sharp-cero-expert\ConsoleApp\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\lenguaje-C-sharp-cero-expert\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\Udemy\lenguaje-C-sharp-cero-expert\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+D:\Udemy\lenguaje-C-sharp-cero-expert\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Udemy\lenguaje-C-sharp-cero-expert\ConsoleApp\obj\Debug\net6.0\ConsoleApp.dll
+D:\Udemy\lenguaje-C-sharp-cero-expert\ConsoleApp\obj\Debug\net6.0\refint\ConsoleApp.dll
+D:\Udemy\lenguaje-C-sharp-cero-expert\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
+D:\Udemy\lenguaje-C-sharp-cero-expert\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
+D:\Udemy\lenguaje-C-sharp-cero-expert\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll
